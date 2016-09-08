@@ -1,0 +1,14 @@
+{
+  "name": "pager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "core/pager.js",
+  "scripts": {
+    "test": "node test.runner"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.14.1"
+  }
+}
